@@ -226,12 +226,12 @@ def build_bar():
 screens = [
     Screen(
         top=build_bar(),
-        wallpaper="~/Pictures/star.png",
+        wallpaper="~/.dotfiles/background.png",
         wallpaper_mode="stretch",
     ),
     Screen(
         top=build_bar(),
-        wallpaper="~/Pictures/star.png",
+        wallpaper="~/.dotfiles/background.png",
         wallpaper_mode="stretch",
     ),
 ]
